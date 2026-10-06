@@ -2,7 +2,7 @@
 
 A new homepage for [Fermor](https://fermor.in), built for the Frontend Developer assignment.
 
-**Live:** _add Vercel URL here_ · **Stack:** Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4
+**Live:** [fermor-home-eight.vercel.app](https://fermor-home-eight.vercel.app/) · **Stack:** Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4
 
 | Desktop | Mobile |
 | --- | --- |
